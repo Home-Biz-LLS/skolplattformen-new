@@ -1,4 +1,4 @@
-import '@testing-library/jest-native/extend-expect'
+import '@testing-library/jest-native'
 import moment from 'moment'
 import 'moment/locale/sv'
 import 'react-native-gesture-handler/jestSetup'
@@ -6,7 +6,7 @@ import 'react-native-gesture-handler/jestSetup'
 moment.locale('sv')
 
 // Mock hooks
-jest.mock('@skolplattformen/hooks')
+jest.mock('./libs/hooks/src')
 
 // Silence useNativeDriver error
 jest.mock('react-native/Libraries/Animated/NativeAnimatedHelper')

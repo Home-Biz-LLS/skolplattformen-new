@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "oppna-skolplattformen-new",
+  "private_key_id": "4c271cae3f681e522e499a96f1f5a8abf8660619",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCKupIRgPRXPhOp\nx0G5SfiEMUQB33gNhWdyekgwO9Zcy3/P6n3kCyS7BP/wJZRgxKX9b7ddQbso7ylM\n01FbGKW+j1bP+YijZFYLO6q/k7n8wIQ9nOhPHtHN64L/MhpdtdT7X+hpaKauoJvh\nvrTaL0vAQ7HdJh7ZiiVJ0isBh/i+BSGHLC8uGxUu9GjR/odJnI5dz+4ksS0kj1/g\nwI/vUuL2OfhGq74uJMZIu0RlFINE93RiAbjTX73CMz+IX7ldwza+iOL5J80yVver\nfrZbuL8e+TzK/EOemSlhP7E8r1Ww/6cGqmYcE8yIS0HMR/VOTf7TZ01aZJqhRoEd\nXo5nNs4TAgMBAAECggEAEB8eWmph+sF8B37gZGf0OWiAPrd5fBjErMkJGpHZl28O\nq1rUxmuFGTa7h2zWkWhI4erZpDy/Q0KHyiXEjpGOsVZ3ADQ/bL18QlHsxdalBnpY\n49AYLxmlyAhWcNGhvsIivhOnLpi6xhBkDRfcbH6SjwVO5iRH8X/cVXfXB5aFkY9b\nSOP34MxEU/2w4YSAklKGiHDgPo2irutIGhi6mKEfIuLvXDu0Oel6b8MknRiUS88I\nG3bpGTLDCq5ugwEAizTG7SirHF4JiwxVzhy8rZXXw7WQDdmoNyFPsA5ab1KfK/w0\nkdJm4u9LvHjvyyXpazfY6H0qynY5O84Z5p+dbhJCAQKBgQC9uI6KYC3fYBNv6QLo\nY1QfDKKFpKrXIuFfZLidUE2WABQVc1zDbr3IET2ML9Fs08+Raa4S1zMpQ/leF2uk\nxblXkJhONT0ploN3Pkpxh5tOfxO8MNmm2gWL3v8xM2rUmSdysroLoyYnU3UQNiAq\nyQGfifUcP/DbkjXDie54MLjH9QKBgQC7MZlQvrp7tyWmHPhS1pULc+Ll1IhyFrkP\nXM9RxM/LwEv+0dxoz50qi3i7bUoIT7MMkRlpNVJafrbh7kfcQDIi4Qu7UZed7Naz\nKvervfrXBrWCo31Mm2HoOBlswMLxAWllVdsV/Y+Shm1x/K+0bqrjk/+G5bZPqbWo\ncTxR/PTg5wKBgBa7v7DLF5QVoh6d0DBifpj93ZegBKykzFau7gRDtBhOSBnN6gat\nBWas0jAzJqggtVWaUTaGvOWr9HyW19o1qyDX/bgZXwvVskkemLMD6dM9HPNG8z2w\nEEwTW4bcv2dcNsLisbJlSVQbBwL7SV13Go+wa0OIUectnO2iYIXcaLflAoGAfPO0\npUNK833jMaiw0YrO3mAymrttgMpOKUUIVkqLcjQgBi5Lc+LxxA5pPqLLAhVBLShF\n0AZ5vFJM/S6y5QAs9z9FN3pVPGN1RQ9vV0JvB81Ap709zD8D8aBQyFk7RuhsU+ol\nXd5tUZ9NuwKyvjwI8fQ+Yus+8JoV2iQL4aZ6Rw0CgYBuA+Vxraaq3RI8ZlqlZaQM\n6Idx1XgOXu5edG91k+7pfq0K/7NKI4Q5HCawuT3+sM4eb22yfZrSRx7zB70d2Dsy\nieZviEuWTUvnDFodTGSmJclGn6Rgg7Hb/+/QiNNtZmTmin8ldB9Y5sXoNHC4IvSM\n4oAbvDk7AZtbGQbNhhsKbA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "osp-fastlane@oppna-skolplattformen-new.iam.gserviceaccount.com",
+  "client_id": "106982955396559632205",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/osp-fastlane%40oppna-skolplattformen-new.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
